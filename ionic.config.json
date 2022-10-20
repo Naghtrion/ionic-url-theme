@@ -1,0 +1,7 @@
+{
+  "name": "app-themee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
